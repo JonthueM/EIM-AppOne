@@ -1,3 +1,4 @@
+import 'package:eim_one/templates/main_category.dart';
 import 'package:flutter/material.dart';
 import 'package:eim_one/templates/day_category.dart';
 
