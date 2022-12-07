@@ -5,9 +5,8 @@ class eimCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return GestureDector(
-        onTap: () =>....,
-        child: Card
+    return Text(
+        "Hi"
     );
   }
 }
